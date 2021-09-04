@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar A</h1>
 <h3 align="center">Java Full Stack Developer with 3.1+ years of experience with endowment for creating elegant web applications. Worked on web applications with agile development practices. Proficient in Java , Python , Spring-Boot, HTML, CSS, TypeScript, Angular 10. Excited to take up the opportunity of web development to build enterprise level web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen9036" alt="naveen9036" /></a> </p>
-
 - 🔭 I’m currently working on [V-learning](https://v-learning.in/)
 
 - 🌱 I’m currently learning **Microservices**
