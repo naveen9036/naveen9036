@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar A</h1>
-<h3 align="center"> Full Stack Developer with 3.7+ years of experience with endowment for creating elegant web applications. Worked on web applications with agile development practices. Proficient in Java , Python , Spring-Boot, HTML, CSS, TypeScript, Angular 10. Excited to take up the opportunity of web development to build enterprise level web applications.</h3>
+<h3 align="center"> Full Stack Developer with 5.1+ years of experience with endowment for creating elegant web applications. Worked on web applications with agile development practices. Proficient in Java , Python , Spring-Boot, HTML, CSS, TypeScript, Angular 10. Excited to take up the opportunity of web development to build enterprise level web applications.</h3>
 
 - 🔭 I’m currently working on [V-learning](https://v-learning.in/)
 
